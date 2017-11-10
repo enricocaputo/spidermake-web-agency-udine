@@ -1,0 +1,24 @@
+.gallery{
+  background-image: url('/img/overlay-bg.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  height: 9000px;
+  position: absolute;
+  overflow: hidden;
+  z-index: 9000;
+}
+.embed{
+  width: 100%;
+  height: 9000px;
+  position: absolute;
+  z-index: 1;
+}
+.over-embed{
+  z-index: 9900;
+  bottom: 0;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 9000px;
+}
