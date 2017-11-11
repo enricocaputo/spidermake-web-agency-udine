@@ -1,7 +1,10 @@
 ---
-layout: post
-title: Esempi di siti web statici
-excerpt: Gallery di template di siti web, esempi di siti internet statici realizzati da Spidermake Web Agency Udine, grazie all'applicativo jekyllrb.
+layout: portfolio
+excerpt: Una gallery di fotografie che illustra siti web realizzati da Spidermake web agency Udine. Una vasta scelta di template per realizzare siti internet a Udine.
+sitemap:
+    priority: 0.61
+    changefreq: 'weekly'
+    lastmod: 2017-11-07
 images:
   - image_path: /img/portfolio-photo-gallery/template-0.png
     title: template 0
@@ -100,7 +103,10 @@ images:
   - image_path: /img/portfolio-photo-gallery/template-47.png
     title: template 47
 ---
-### Esempi di siti internet. Siti web statici. Spidermake Web Agency
+<br/>
+# Template per Siti Web
+
+### Esempi di siti internet realizzabili da Spidermake Web Agency Udine
 
 <ul class="photo-gallery">
   {% for image in page.images %}

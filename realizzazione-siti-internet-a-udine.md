@@ -28,7 +28,7 @@ Naturalmente, dalla prima all’ultima fase bisogna agire con una certa esperien
 ### Cosa fare?
 
 Affidatevi sempre a professionisti: Costano di più, ma vi assicurano risultati concreti.
-Come fate a sapere se chi realizzerà il vostro sito è un professionista? Attraverso il suo <a href="/11-09-2017/gallery-template-siti-internet-realizzati-con-jekyllrb.html" title="vai al portfolio siti web realizzati da Spidermake Web Agency Udine">portfolio clienti</a>.
+Come fate a sapere se chi realizzerà il vostro sito è un professionista? Attraverso il suo <a href="/portfolio-photo-gallery.html" title="vai al portfolio di siti web realizzati da Spidermake Web Agency Udine">portfolio clienti</a>.
 
 Se avete già un sito internet che non vi soddisfa è possibile ridisegnare la veste grafica e rivedere i contenuti, ma attenzione, bisogna agire sempre con un’analisi accurata del sito prima di cancellare, modificare, ricostruire: a volte pagine “bruttissime” possono avere buone posizioni sui motori di ricerca ed il web designer pur di rifare il sito web ex-novo, cancella tutto e penalizza l’indicizzazione su google, su bing e su altri motori di ricerca.
 
