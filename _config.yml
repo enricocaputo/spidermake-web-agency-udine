@@ -1,9 +1,8 @@
 title: Web Agency Udine
 email: info@spidermake.com
 tel: +39-388-9005888
-description: > # this means to ignore newlines until "baseurl:"
-  Realizzazione siti internet a Trieste, a Udine e in tutto il Friuli. Creazione siti web
-  statici. Posizionamento sui motori di ricerca, SEO.
+description:
+  Spiedermake Web Agency realizza Siti Internet a Udine. Crea siti web a Trieste. Posizionamento su motori di ricerca e SEO. Servizi web in Friuli-Venezia Giulia.
 baseurl: "/"
 url: "https://www.spidermake.com"
 facebook_username: spidermake
