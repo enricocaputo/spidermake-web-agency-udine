@@ -7,20 +7,21 @@
   overflow: hidden;
   margin-left: 0;
 }
-ul.photo-gallery {
+.photo-gallery ul {
   margin: 0 auto;
 }
-ul li.photo-gallery {
+.photo-gallery li {
     list-style-type: none;
     display: inline;
+
     padding: 0;
     overflow: hidden;
     clear: both;
 }
-ul li img.photo-gallery {
+.photo-gallery li img {
   width: 312px;
   height: 272px;
   margin: 5px;
-  border: 1px solid #ddd;
-  border-radius: 4px;
+  border: 1px solid #ddd; /* Gray border */
+  border-radius: 4px;  /* Rounded border */
 }
