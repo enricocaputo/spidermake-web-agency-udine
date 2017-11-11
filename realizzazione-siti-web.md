@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Siti web Udine
+title: Siti web
 excerpt: Agenzia Web a Udine specializzata in realizzazione siti internet, creazione siti web. Consulente SEO. Massima serità e prezzi onesti. Web Agency Udine.
-permalink: /servizi/realizzazione-siti-internet-creazione-siti-web-udine/
+permalink: /servizi/realizzazione-siti-internet/
 sitemap:
   priority: 0.7
 ---
@@ -10,6 +10,10 @@ sitemap:
 ### Realizzazione di un sito web bello, efficace, indicizzato!
 
 Ci occupiamo di progettazione e **creazione di siti web**, **realizzazione siti mobile**, **creazione siti aziendale, liberi professionisti** e privati offrendo soluzioni personalizzate e funzionali. Forniamo **servizi dedicati** e **su misura** rivolti alla comunicazione online: **web design** e **web restyling**, **gestione e assistenza** siti internet e offline.
+
+Siamo presenti a [Trieste](/realizzazione-siti-internet-a-trieste/)
+
+Siamo presenti a [Udine](/realizzazione-siti-internet-a-udine/)
 
 
 ## Realizzazione sito web Aziendale e sito Statico
@@ -27,7 +31,7 @@ Naturalmente, dalla prima all’ultima fase bisogna agire con una certa esperien
 
 ### Cosa fare?
 
-Affidatevi sempre a professionisti: Costano di più, ma vi assicurano risultati concreti.
+Affidatevi sempre a **professionisti**: **Non costano di più** e vi assicurano **risultati concreti**.
 Come fate a sapere se chi realizzerà il vostro sito è un professionista? Attraverso il suo <a href="/portfolio-photo-gallery.html" title="vai al portfolio di siti web realizzati da Spidermake Web Agency Udine">portfolio clienti</a>.
 
 Se avete già un sito internet che non vi soddisfa è possibile ridisegnare la veste grafica e rivedere i contenuti, ma attenzione, bisogna agire sempre con un’analisi accurata del sito prima di cancellare, modificare, ricostruire: a volte pagine “bruttissime” possono avere buone posizioni sui motori di ricerca ed il web designer pur di rifare il sito web ex-novo, cancella tutto e penalizza l’indicizzazione su google, su bing e su altri motori di ricerca.
