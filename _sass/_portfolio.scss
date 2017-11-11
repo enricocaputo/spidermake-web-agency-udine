@@ -10,7 +10,7 @@
 .photo-gallery ul {
   margin: 0 auto;
 }
-.photo-gallery li {
+.photo-gallery ul li {
     list-style-type: none;
     display: inline;
 
@@ -18,7 +18,7 @@
     overflow: hidden;
     clear: both;
 }
-.photo-gallery li img {
+.photo-gallery ul li img {
   width: 312px;
   height: 272px;
   margin: 5px;
