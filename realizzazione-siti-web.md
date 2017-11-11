@@ -11,9 +11,9 @@ sitemap:
 
 Ci occupiamo di progettazione e **creazione di siti web**, **realizzazione siti mobile**, **creazione siti aziendale, liberi professionisti** e privati offrendo soluzioni personalizzate e funzionali. Forniamo **servizi dedicati** e **su misura** rivolti alla comunicazione online: **web design** e **web restyling**, **gestione e assistenza** siti internet e offline.
 
-Siamo presenti a [Trieste](/realizzazione-siti-internet-a-trieste/)
+Siamo presenti a [Trieste](/realizzazione-siti-internet-a-trieste.html)
 
-Siamo presenti a [Udine](/realizzazione-siti-internet-a-udine/)
+Siamo presenti a [Udine](/realizzazione-siti-internet-a-udine.html)
 
 
 ## Realizzazione sito web Aziendale e sito Statico
