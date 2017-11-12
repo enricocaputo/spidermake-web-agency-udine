@@ -5,7 +5,9 @@ permalink: /web-design.html
 sitemap:
   priority: 0.7
 ---
-# SpiderMake Web Design
+
+<img src="/img/SpiderMake-web-design.jpg" alt="SpiderMake webdesign, web designer a Udine " title="SpiderMake webdesign, web designer a Udine">
+<br/>
 
 ### Il sito web è lo strumento principale per promuovere il Vostro business online.
 
@@ -13,7 +15,7 @@ sitemap:
 
 <ul class="toc"><h5>Contenuti</h5>
 <a href="#web-design">Web Design</a> |
-<a href="#sviluppo-web">Sviluppo Web</a> | 
+<a href="#sviluppo-web">Sviluppo Web</a> |
 <a href="#system-integrations">System Integrations</a>
 </ul>
 
