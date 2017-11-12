@@ -6,18 +6,14 @@ permalink: /servizi/posizionamento-sui-motori-di-ricerca-consulente-seo-a-udine/
 sitemap:
   priority: 0.7
 ---
-<br/>
-
 ### Vuoi maggior visibilità?
-
 #### Scopri come posso aiutarti..
 <br/>
-<a href="/url-appuntamenti-web-agency-udine/" class="button" style="padding: 10px; background-color:#c98959; color:#fff;">
+<a href="/url-appuntamenti-web-agency-udine/" class="button" style="padding: 10px; background-color:#c98959; color:#fff; box-shadow: 2px 2px #828282;">
 **contattami**
 </a>
 
-<br/>
-<br/>
+<img src="/img/SpiderMake-siti-web-udine-keywords.png" alt="SpiderMake è consulente SEO a Udine. Posizionamento su motori di ricerca. SpiderMake web agency Udine" title="SpiderMake è consulente SEO a Udine. Posizionamento su motori di ricerca. SpiderMake web agency Udine">
 
 ## Servizi di consulenza SEO personalizzati e a misura del cliente per l’ottimizzazione on site e il posizionamento di siti web all’interno dei motori di ricerca.
 

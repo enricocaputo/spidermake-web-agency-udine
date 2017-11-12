@@ -5,6 +5,8 @@ excerpt: Spidermake-Web-Agency-Udine è siti web statici. Web agency Udine usa i
 date:   2017-11-10
 categories: jekyll update
 ---
+<img src="/img/consulente-seo-udine-posizionamento-motori-di-ricerca.jpg" alt="SpiderMake è consulente SEO a Udine. Posizionamento su motori di ricerca. SpiderMake web agency Udine" title="SpiderMake è consulente SEO a Udine. Posizionamento su motori di ricerca. SpiderMake web agency Udine">
+
 I **link** sono l’anima del web. Non tutti i link, però, hanno lo stesso valore. Per raggiungere un adeguato e duraturo **posizionamento sui motori di ricerca**, occorre, attraverso l’<abbr title="Attraverso l’ottimizzazione on site di un sito web è possibile migliorarne il posizionamento, con particolare riferimento alle keyword di tipo long tail e a bassa competitività.">ottimizzazione on site</abbr>, lavorare sui contenuti ma, al contempo, è importante accrescere la **popolarità** del sito attraverso i link.
 
 Per cominciare si effettua una puntuale **analisi del posizionamento** attuale del sito web e dei **link** acquisiti in precedenza, si procede ad eliminare i vecchi collegamenti dannosi al <abbr title="Search Engine Optimization, letteralmente, Ottimizzazione dui Mptori di Ricerca">seo</abbr>. Ad esempio, quelli provenienti da directory a basso trust e da siti spam oppure stranieri, che potrebbero venir penalizzazioni da **Google**, da **Bing** e dagli altri motori di ricerca sui quali abbiamo deciso di competere.

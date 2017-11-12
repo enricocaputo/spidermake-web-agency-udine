@@ -6,7 +6,7 @@ permalink: /servizi/realizzazione-siti-internet/
 sitemap:
   priority: 0.7
 ---
-<img src="/img/SpiderMake-web-agency-udine-web-design-responsive-websites.png" alt="SpiderMake è siti internet a Udine, web designer, responsive websites. SpiderMake web agency Udine" title="SpiderMake è siti internet a Udine, web designer, responsive websites. SpiderMake web agency Udine">
+<img src="/img/SpiderMake-web-agency-udine-web-design-responsive-websites-min.png" alt="SpiderMake è siti internet a Udine, web designer, responsive websites. SpiderMake web agency Udine" title="SpiderMake è siti internet a Udine, web designer, responsive websites. SpiderMake web agency Udine">
 
 ## Siti internet di Qualità
 ### Realizzazione di un sito web bello, efficace, indicizzato!
