@@ -18,7 +18,7 @@ Spidermake ™ da otto anni con successo nel mercato on-line e off-line come dig
 ## Web designer
 ### SEO specialist
 
-Enrico Caputo collabora con Spidermake Web Agency a Udine. Freelance a Trieste, in tutta Italia e all'estero. Dall'anno 2010 è web designer. Si occupa di promozione online e posizionamento di siti web su motori di ricerca. Esperto, con certificazioni Google AdWords e Google AdSense, in pubblicità dei segmenti desktop e mobile.
+Enrico Caputo collabora con Spidermake Web Agency a Udine. Freelance a Trieste, in tutta Italia e all'estero. Dall'anno 2010 è [web designer](https://www.spidermake.com/web-design.html). Si occupa di promozione online e posizionamento di siti web su motori di ricerca. Esperto, con certificazioni Google AdWords e Google AdSense, in pubblicità dei segmenti desktop e mobile.
 
 
 
