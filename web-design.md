@@ -12,8 +12,8 @@ sitemap:
 <div class="section-center">
 
 <ul class="toc"><h5>Contenuti</h5>
-<a href="#web-design">Web Design</a>
-<a href="#sviluppo-web">Sviluppo Web</a>
+<a href="#web-design">Web Design</a> |
+<a href="#sviluppo-web">Sviluppo Web</a> | 
 <a href="#system-integrations">System Integrations</a>
 </ul>
 
