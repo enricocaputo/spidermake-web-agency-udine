@@ -4,7 +4,7 @@
 
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
-    <nav class="site-nav">
+    <nav class="site-nav" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
       <a href="#" class="menu-icon">
         <svg viewBox="0 0 18 15">
           <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
@@ -14,11 +14,30 @@
       </a>
 
       <div class="trigger">
-        {% for my_page in site.pages %}
-          {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-          {% endif %}
-        {% endfor %}
+
+        <a itemprop="url" class="page-link {% if page.url contains '/about-enrico-caputo-web-designer-e-spidermake-web-agency-udine/' %}current{% endif %}" href="/about-enrico-caputo-web-designer-e-spidermake-web-agency-udine/">
+        <span itemprop="name">About</span>
+        </a>
+
+        <a itemprop="url" class="page-link {% if page.url contains '/servizi/posizionamento-sui-motori-di-ricerca-consulente-seo-a-udine/' %}current{% endif %}" href="/servizi/posizionamento-sui-motori-di-ricerca-consulente-seo-a-udine/">
+        <span itemprop="name">SEO</span>
+        </a>
+
+
+        <a itemprop="url" class="page-link {% if page.url contains '/servizi/realizzazione-siti-internet/' %}current{% endif %}" href="/servizi/realizzazione-siti-internet/">
+        <span itemprop="name">Siti web</span>
+        </a>
+
+
+        <a itemprop="url" class="page-link {% if page.url contains '/web-design' %}current{% endif %}" href="/web-design.html">
+        <span itemprop="name">Strumenti</span>
+        </a>
+
+
+        <a itemprop="url" class="page-link {% if page.url contains '/url-appuntamenti-web-agency-udine/' %}current{% endif %}" href="/url-appuntamenti-web-agency-udine/">
+        <span itemprop="name">Contatti</span>
+        </a>
+
       </div>
     </nav>
 
