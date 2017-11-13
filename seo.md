@@ -4,7 +4,7 @@ title: SEO
 excerpt: 'Consulente SEO e Web Marketing: offro consulenza su posizionamento, negative SEO, ottimizzazione on site, link building. Preventivi gratuiti in 24h!'
 permalink: /servizi/posizionamento-sui-motori-di-ricerca-consulente-seo-a-udine/
 sitemap:
-  priority: 0.7
+  priority: 0.55
 ---
 ### Vuoi maggior visibilità?
 #### Scopri come posso aiutarti..

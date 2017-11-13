@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Strumenti: web-design, framework, sviluppo-web, system-integrations
-excerpt: Contenuti. Web Design Sviluppo Web System Integrations. Un website spesso costituisce la prima opinione che un consumatore si fa di ... Strumenti all'avanguardia
+title: Strumenti di WebDesign
+excerpt: Contenuti. Web Design Sviluppo Web System Integrations. Un website spesso costituisce la prima opinione che un consumatore si fa diW... Strumenti all'avanguardia
 permalink: /web-design.html
 sitemap:
-  priority: 0.7
+  priority: 0.5
 ---
 
 <img src="/img/SpiderMake-web-design.jpg" alt="SpiderMake webdesign, web designer a Udine " title="SpiderMake webdesign, web designer a Udine">
@@ -14,11 +14,12 @@ sitemap:
 
 <div class="section-center">
 
-<ul class="toc"><h5>Contenuti</h5>
+<div class="toc">
+<h5>Contenuti</h5>
 <a href="#web-design">Web Design</a> |
 <a href="#sviluppo-web">Sviluppo Web</a> |
 <a href="#system-integrations">System Integrations</a>
-</ul>
+</div>
 
 <br>
 

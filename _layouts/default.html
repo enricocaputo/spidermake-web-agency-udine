@@ -6,7 +6,9 @@
   <body>
 
     {% include header.html %}
-
+    <div>
+      <a class="googleSearch" href="/cerca/" title="Cerca sul sito www.spidermake.com"><b> &#128269; &nbsp; Cerca </b></a>
+    </div>
     <div class="page-content">
       <div class="wrapper">
         {{ content }}
@@ -16,5 +18,25 @@
     {% include footer.html %}
 
   </body>
-
+  <script type="application/ld+json">
+  {
+    "@context" : "http://schema.org",
+    "@type" : "WebSite",
+    "name" : "Spidermake è Agenzia Web a Udine. Realizzazione siti web. SEO.",
+    "url" : "https://www.spidermake.com/",
+    "potentialAction" : {
+      "@type" : "SearchAction",
+      "target" : "https://www.spidermake.com/cerca/?s={search}",
+      "query-input" : "required name=search"
+    }
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context" : "http://schema.org",
+    "@type" : "WebPage",
+    "name" : "{{ page.title }}",
+    "url" : "https://www.spidermake.com{{ page.permalink }}"
+  }
+  </script>
 </html>

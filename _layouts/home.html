@@ -10,5 +10,81 @@
     {{ content }}
 
   </body>
+  <script type="application/ld+json">
+  {
+    "@context" : "http://schema.org",
+    "@type" : "WebSite",
+    "name" : "Spidermake è Agenzia Web a Udine. Realizzazione siti web. SEO.",
+    "url" : "https://www.spidermake.com/",
+    "potentialAction" : {
+      "@type" : "SearchAction",
+      "target" : "https://www.spidermake.com/cerca/?s={search}",
+      "query-input" : "required name=search"
+    }
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context" : "http://schema.org",
+    "@type" : "WebPage",
+    "name" : "{{ page.title }}",
+    "url" : "https://www.spidermake.com{{ page.permalink }}"
+  }
+  </script>
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "localBusiness",
+          "url": "https://www.spidermake.com/",
+          "name": "Spidermake è web designer a Udine. Agenzia web Udine per siti web.",
+          "logo": "https://www.spidermake.com/img/logo-1.jpg",
+          "image": "https://www.spidermake.com/img/spidermake-web-agency-udine-share.jpg",
+          "description": "Categoria: web designer, Area Servita: Friuli-Venezia Giulia, Menu: realizzazione siti web, creazione siti internet, SEO e posizionamento su motori di ricerca.",
+          "telephone": "+39-3889005888",
+          "contactPoint": {
+                          "@type": "ContactPoint",
+                          "telephone": "+39-3889005888",
+                          "contactType": "Customer service"
+                        },
+          "address":{"@type":"PostalAddress",
+          "addressLocality":"Udine, Italia",
+          "addressRegion":"Friuli-Venezia Giulia",
+          "postalCode":"I-33100",
+          "addressCountry":"Italy"},
+          "areaServed": {
+            "@type": "Place",
+            "geo": {
+              "@type": "GeoCircle",
+              "geoMidpoint": {
+              "@type": "GeoCoordinates",
+              "latitude": "46.067125",
+              "longitude": "13.237273"
+              },
+              "geoRadius": "100000"
+            }
+          },
+          "priceRange": "EUR 500 - EUR 2500",
+          "sameAs": ["https://www.facebook.com/spidermake/"
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.8",
+            "reviewCount": "46"
+          },
+        "review": [
+        {
+          "@type": "Review",
+          "author": "Google",
+          "datePublished": "2017",
+          "reviewRating": {
+            "@type": "Rating",
+            "bestRating": "5",
+            "ratingValue": "5",
+            "worstRating": "5"
+          }
+        }
+      ]
+    }
+  </script>
 
 </html>
