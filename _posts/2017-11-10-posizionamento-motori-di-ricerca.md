@@ -2,6 +2,7 @@
 layout: post
 title:  Posizionamento sui motori di ricerca
 excerpt: Spidermake-Web-Agency-Udine è siti web statici. Web agency Udine usa il generatore di siti Jekyllrb per realizzare siti internet, blog e portali, a Udine a Trieste
+author: Spidermake | web designer Udine
 date:   2017-11-10
 categories: jekyll update
 ---

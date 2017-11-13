@@ -2,6 +2,8 @@
 layout: post
 title: Esempi di siti web statici
 excerpt: Gallery di template di siti web, esempi di siti internet statici realizzati da Spidermake Web Agency Udine, grazie all'applicativo jekyllrb.
+author: Spidermake | web designer Udine
+date:   2017-11-09
 images:
   - image_path: /img/portfolio-photo-gallery/template-0.png
     title: template 0
