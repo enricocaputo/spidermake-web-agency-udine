@@ -6,6 +6,7 @@ author: Spidermake | web designer Udine
 date:   2017-11-08
 categories: jekyll update
 ---
+<img itemprop="image" src="/img/spidermake-web-designer-udine-usa-jekyllrb.png" alt="spidermake-web-designer-udine-usa-jekyllrb" title="spidermake-web-designer-udine-usa-jekyllrb">
 
 ## Velocità
 
