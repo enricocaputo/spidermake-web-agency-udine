@@ -8,6 +8,15 @@ url: "https://www.spidermake.com"
 facebook_username: spidermake
 linkedin_username: spidermake
 
+# Important: you must keep the "name" parameter, everything else you can remove
+author:
+  name: Spidermake | web designer Udine
+  email: "info@spidermake.com"
+  facebook: spidermake
+
+#disqus: ""
+disqus: "spidermake"
+
 # Build settings
 markdown: kramdown
 

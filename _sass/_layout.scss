@@ -20,7 +20,7 @@ header {
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
-
+    text-align: left;
     &,
     &:visited {
         color: $grey-color-dark;
@@ -226,6 +226,7 @@ a.googleSearch:hover {
  */
 .post-header {
     margin-bottom: $spacing-unit;
+    text-align: left;
 }
 
 .post-title {
