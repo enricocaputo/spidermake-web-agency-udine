@@ -4,6 +4,7 @@ title:  Creazione siti web statici, veloci e sicuri!
 excerpt: Spidermake-Web-Agency-Udine è siti web statici. Web agency Udine usa il generatore di siti Jekyllrb per realizzare siti internet, blog e portali, a Udine a Trieste
 author: Spidermake | web designer Udine
 date:   2017-11-08
+last_modified_at: 2017-11-14
 categories: 'tutorial siti web'
 comments: true
 ---
